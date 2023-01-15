@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "this is the practice module of chat application from LWS.",
   "main": "index.js",
-  "engines": {
-    "node": "14.x"
-  },
   "scripts": {
     "start": "set NODE_ENV=production &&node index.js"
   },
